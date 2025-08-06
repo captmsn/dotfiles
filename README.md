@@ -1,5 +1,3 @@
-# Tom's Dotfiles & System Setup
-
 Private documentation of my Linux environment and dotfiles.
 
 ---
